@@ -6,7 +6,7 @@
 #include "TechnicalAnalysis.h"
 #include "JSONdata.h"
 #include "IEX.h"
-#include <string>
+#include <string.h>
 #include <iostream>
 #include <json/json.h>
 #include <curl/curl.h>
